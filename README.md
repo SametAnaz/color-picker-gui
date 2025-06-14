@@ -2,6 +2,7 @@
 
 A minimal GUI-based color picker tool for Linux desktops.  
 Click anywhere on the screen to select a pixel — the script will copy the pixel's HEX color code to your clipboard and display a desktop notification.
+---
 ! Onl for X11 sessions 
 ---
 
